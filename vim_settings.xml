@@ -4,13 +4,13 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
